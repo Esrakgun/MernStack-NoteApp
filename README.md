@@ -125,9 +125,14 @@ E-posta: akgundogduesr@gmail.com
 ---
 
 # 🖼️Görseller-Hikaye görünümü:  
+
 Kapak:
 <img width="1668" height="823" alt="MernStackpic" src="https://github.com/user-attachments/assets/675411f9-5877-40ac-a755-97c2ceb8c19e" />
+
+---
+
 Demo:
+
 https://github.com/user-attachments/assets/d54bad4b-b47c-4257-9f5b-306ed443176d
 
 
